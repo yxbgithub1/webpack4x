@@ -1,0 +1,15 @@
+body {
+  border: solid 5px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transform: 50%;
+  transform: 50%;
+}
+
+div {
+  border: solid 10px;
+}
+
+.test-img {
+  background: url(../imgs/20180919212404.png) no-repeat center;
+}
